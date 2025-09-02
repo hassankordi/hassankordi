@@ -31,8 +31,6 @@ I enjoy working with modern JavaScript frameworks, especially **Angular**, and I
 ## 📊 GitHub Stats  
 
 ![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassan-kordi&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-kordi&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassan-kordi&theme=radical)  
 
 ---
 
